@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "378a",
+      "name": "Muzaffar",
+      "surname": "Hakimov",
+      "email": "hakimov@gmsil.com",
+      "password": "1234"
+    },
+    {
+      "id": "a01c",
+      "name": "Asilbek",
+      "surname": "Ibragimov",
+      "email": "asilbek@gmail.com",
+      "password": "asilbek"
+    }
+  ]
+}
